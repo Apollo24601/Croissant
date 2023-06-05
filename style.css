@@ -1,10 +1,10 @@
-body{
-    background: purple;
+body {
+  background: rgb(235, 155, 235);
 }
-h1{
-    text-align: center;
-    color: white;
+h1 {
+  text-align: center;
+  color: white;
 }
-a{
-    color: aliceblue;
+a {
+  color: aliceblue;
 }
